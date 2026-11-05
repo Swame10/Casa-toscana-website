@@ -26,7 +26,7 @@ Open `index.html` in a browser. For a smoother development experience, open the 
 
 ## Group information — complete before submission
 - Member 1: Kwame Kitawi — [Student number]
-- Member 2: Oluwafaremni  — [Student number]
+- Member 2: Oluwaferanmi Otudeko  — [221160239]
 
 ## Submission reminder
 Rename the final archive using the assignment naming convention:

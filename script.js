@@ -87,7 +87,7 @@ contactForm.addEventListener("submit", (event) => {
   const email = emailInput.value.trim();
   const message = messageInput.value.trim();
 
-  // Validation condition 1: name must not be empty.
+  // Validation condition 1: name must be at least 2 characters long.
   const nameError = name.length < 2
     ? "Please enter a name with at least 2 characters."
     : "";

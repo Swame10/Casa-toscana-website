@@ -18,7 +18,7 @@ A fictional Italian restaurant website built with HTML, CSS and vanilla JavaScri
 Open `index.html` in a browser. For a smoother development experience, open the folder in Visual Studio Code and use the Live Server extension if installed.
 
 ## Notes
-- The menu, prices, address and restaurant identity are fictional sample content. Replace them with your group's final content.
+- The menu, prices, address and restaurant identity are fictional sample content.
 - Food photographs are loaded from Unsplash URLs, so an internet connection is needed to display them.
 - Google Fonts are loaded online. The page uses fallback fonts if they are unavailable.
 - The contact form is a front-end demonstration only. It does not send or store messages.
